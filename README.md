@@ -1,3 +1,19 @@
+# React Project PH
+
+A React + TypeScript project built with Vite.
+
+## 🚀 Live Demo
+
+👉 [View Live Website](https://react-project-ph.netlify.app)
+
+## 🛠️ Technologies
+
+- React
+- TypeScript
+- Vite
+- CSS
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
